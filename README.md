@@ -9,6 +9,8 @@
 > **Note**
 > 
 > You may want to disable php execution in the `writeups` directory. Remember to do that if you mounted the directory with docker.
+> 
+> ![security-note](https://i.dawnlab.me/fdbf9086915701634c3acfd46517f8e2.png)
 
 The frontend is modified from [a Hackergame 2022 problem (猜数字)](https://github.com/USTC-Hackergame/hackergame2022-writeups/blob/master/official/%E7%8C%9C%E6%95%B0%E5%AD%97/src).
 
