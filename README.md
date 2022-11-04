@@ -6,6 +6,10 @@
 > 
 > You may want to add authentication when implementing the two APIs.
 
+> **Note**
+> 
+> You may want to disable php execution in the `writeups` directory. Remember to do that if you mounted the directory with docker.
+
 The frontend is modified from [a Hackergame 2022 problem (猜数字)](https://github.com/USTC-Hackergame/hackergame2022-writeups/blob/master/official/%E7%8C%9C%E6%95%B0%E5%AD%97/src).
 
 ## Screenshots
